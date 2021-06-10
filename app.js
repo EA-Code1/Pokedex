@@ -70,5 +70,5 @@ const closePopup = () => {
     popup.parentElement.removeChild(popup);
 };
 
-fetchPokemon();
+fetchPokemon();;
 

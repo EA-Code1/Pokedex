@@ -11,6 +11,8 @@
 
 ![Pokedex1](https://user-images.githubusercontent.com/84244408/121818790-2fd0e980-cc81-11eb-9647-3a8c7ab2ee82.gif)
 
+In the console you can view the whole list of Pokemon and in the network section each pokemon selected caches one time. Also in the console you can see other information e.g. their abilities. 
+
 https://ea-code1.github.io/Pokedex/
 
 ![E's Pokedex js File 1](https://user-images.githubusercontent.com/84244408/121811949-faff6b00-cc5d-11eb-92a5-cdfe8338f894.jpg)

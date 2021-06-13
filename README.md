@@ -1,6 +1,8 @@
 # Pokedex
 ![E's Pokedex](https://user-images.githubusercontent.com/84244408/121811898-c9869f80-cc5d-11eb-93c1-5648e2670158.jpg)
 
+![Selected Pokemon in pokedex](https://user-images.githubusercontent.com/84244408/121812372-7e6d8c00-cc5f-11eb-962c-7cc1c0f279a4.jpg)
+
 https://ea-code1.github.io/Pokedex/
 
 ![E's Pokedex js File 1](https://user-images.githubusercontent.com/84244408/121811949-faff6b00-cc5d-11eb-92a5-cdfe8338f894.jpg)

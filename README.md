@@ -9,6 +9,8 @@
 
 ![Pokedex](https://user-images.githubusercontent.com/84244408/121818760-0d3ed080-cc81-11eb-9d62-69e3bd3ac9cc.gif)
 
+![Pokedex1](https://user-images.githubusercontent.com/84244408/121818790-2fd0e980-cc81-11eb-9647-3a8c7ab2ee82.gif)
+
 https://ea-code1.github.io/Pokedex/
 
 ![E's Pokedex js File 1](https://user-images.githubusercontent.com/84244408/121811949-faff6b00-cc5d-11eb-92a5-cdfe8338f894.jpg)

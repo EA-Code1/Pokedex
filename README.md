@@ -5,6 +5,8 @@
 
 ![E's Pokedex console](https://user-images.githubusercontent.com/84244408/121818075-f5fde400-cc7c-11eb-9f50-01074170c1fa.jpg)
 
+![E's Pokedex console 1](https://user-images.githubusercontent.com/84244408/121818082-fe561f00-cc7c-11eb-87c3-efc49844233f.jpg)
+
 https://ea-code1.github.io/Pokedex/
 
 ![E's Pokedex js File 1](https://user-images.githubusercontent.com/84244408/121811949-faff6b00-cc5d-11eb-92a5-cdfe8338f894.jpg)
